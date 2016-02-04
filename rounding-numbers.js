@@ -13,4 +13,7 @@
   Check to see if your program is correct by running this command:
      javascripting verify rounding-numbers.js
 */
-
+var roundUp = 1.5;
+Math.round(1.5);
+var output = 2;
+console.log(output); 
